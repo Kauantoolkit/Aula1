@@ -1,8 +1,8 @@
-p.azul {
+.azul {
     text-align: center;
     color: rgb(83, 17, 183);
 }
-p.rosa {
+.rosa {
     text-align: center;
     color: pink
 }
